@@ -76,7 +76,7 @@ The risk register includes the following key components:
 ## 🔗 File Included
 
 - `AgriCiv_Risk_Register.xlsx` — The final version of the risk register. 📂 [View the Risk Register on GitHub](https://github.com/samara-chinamasa/agriciv-risk-register/blob/main/AgriCiv_Risk_Register.xlsx)
-
+*(Note: Clicking “View raw” will start the download.)*
 
 
 ---
